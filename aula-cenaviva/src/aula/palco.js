@@ -66,7 +66,7 @@ export async function montarPalco(canvas,asset){
     const x=72+(1-a)*-30,y=86;
     ctx.font='700 22px "JetBrains Mono", monospace';const num=String(i+1).padStart(2,'0')+' / '+aula.chapters.length;
     ctx.font='600 40px "Source Serif 4", Georgia, serif';const w=Math.max(ctx.measureText(c.title).width,220);
-    ctx.fillStyle='rgba(19,32,32,.86)';ctx.beginPath();ctx.roundRect(x-26,y-50,w+52,118,14);ctx.fill();
+    ctx.fillStyle='rgba(19,32,32,.97)';ctx.beginPath();ctx.roundRect(x-26,y-50,w+52,118,14);ctx.fill();
     ctx.fillStyle='#e2956b';ctx.fillRect(x-26,y-50,8,118);
     ctx.font='700 22px "JetBrains Mono", monospace';ctx.fillStyle='#9fc2a9';ctx.fillText(num,x,y-14);
     ctx.font='600 40px "Source Serif 4", Georgia, serif';ctx.fillStyle='#fff5dd';ctx.fillText(c.title,x,y+40);

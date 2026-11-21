@@ -28,6 +28,9 @@ npm run studio                              # composição "AulaCenaViva" no Rem
 node tools/render.mjs quadros 5000,9000 revisao/quadros      # conferir quadros soltos
 node tools/render.mjs segmento 4250 13349 seg1.mp4            # renderizar um trecho (sem áudio)
 python tools/finalizar.py <piloto.mp4> entrega/CenaViva-Aula-de-Boas-Vindas.mp4 seg1.mp4 seg2.mp4 ...
+# corrigir um trecho sem refazer o segmento: renderiza só ele e passa como remendo
+node tools/render.mjs segmento 10093 10332 rem-cap04.mp4
+python tools/finalizar.py <piloto.mp4> saida.mp4 seg1.mp4 ... --remendo 10093:10332:rem-cap04.mp4
 ```
 
 No Windows, o exportador usa a GPU (`--use-angle=d3d11`) e fica bem mais rápido. Em servidor sem GPU usa
