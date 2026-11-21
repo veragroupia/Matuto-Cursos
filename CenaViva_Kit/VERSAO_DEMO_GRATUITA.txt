@@ -1,0 +1,7 @@
+# Sugestão de demonstração gratuita
+
+Para atrair clientes, **mostre primeiro um trecho real de produção** e ofereça um tutorial gratuito de uma única habilidade (por exemplo: criar um briefing com conflito). Não entregue publicamente o ZIP completo se pretende vendê-lo.
+
+Demonstração ao vivo: abra `ferramenta/ESTUDIO_CENAVIVA.html`, altere os três campos centrais, clique em «Gerar meu briefing» e mostre a primeira etapa no Claude Code. Exiba o resultado e explique a necessidade de instalação e revisão.
+
+O HTML `vendas/PAGINA_DE_VENDAS.html` é um rascunho, **não tem pagamento funcional**. Configure um checkout real e verifique dados legais antes de anunciar o link.
