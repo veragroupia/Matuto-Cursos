@@ -16,7 +16,7 @@ args=sys.argv[1:];remendos=[]
 while '--remendo' in args:
     i=args.index('--remendo');a,b,f=args[i+1].split(':',2);remendos.append((int(a),int(b),Path(f)));del args[i:i+2]
 piloto,saida,segs=Path(args[0]),Path(args[1]),[Path(s) for s in args[2:]]
-def quadros(p):return int(subprocess.check_output([fp,'-v','error','-count_packets','-select_streams','v:0','-show_entries','stream=nb_read_packets','-of','csv=p=0',str(p)]).decode().strip())
+def quadros(p):return int(subprocess.check_output([fp,'-v','error','-count_packets','-select_streams','v:0','-show_entries','stream=nb_read_packets','-of','csv=p=0',str(p)]).decode().strip().split(',')[0])
 nseg=[quadros(s) for s in segs]
 total=aula['introFrames']+sum(nseg)
 assert total==aula['frames'],f'segmentos cobrem {total} quadros; a aula tem {aula["frames"]}'
