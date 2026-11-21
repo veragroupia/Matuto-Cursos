@@ -1,3 +1,7 @@
 node_modules/
 video-celular-ia/out/*.png
 .DS_Store
+aula-cenaviva/revisao/
+aula-cenaviva/render/
+aula-cenaviva/entrega/*.mp4
+aula-cenaviva/public/aula.wav

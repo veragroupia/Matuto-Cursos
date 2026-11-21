@@ -1,0 +1,52 @@
+{
+  "voz": "Matuto",
+  "id": "UkpOFlJ6eThQ4Qt9Rff5",
+  "tomadas": [
+    {
+      "arquivo": "v4-1.mp3",
+      "modelo": "eleven_v4",
+      "voz": "UkpOFlJ6eThQ4Qt9Rff5",
+      "segundos": 12.72,
+      "creditos": 214.9785,
+      "estado": "completed",
+      "geracao": "7j5b1Mp1X6gLQBJhnbih",
+      "flow": "oEAzSvSKI3B7BxhmssFk",
+      "sha256": "f8b679f4034b7d3a2ca23662322a6f22980afafd420bd9912bb365b71729f004"
+    },
+    {
+      "arquivo": "v4-2.mp3",
+      "modelo": "eleven_v4",
+      "voz": "UkpOFlJ6eThQ4Qt9Rff5",
+      "segundos": 17.2,
+      "creditos": 282.97169999999994,
+      "estado": "completed",
+      "geracao": "fuGrDdLU4vj9I4b3wqpN",
+      "flow": "Nm59NqkpuVHz7pzQrZTB",
+      "sha256": "d6f4eeda9052c1afbb944c28b0ca5c2ad41ac63b09d4258db792510f0f174a4b"
+    },
+    {
+      "arquivo": "v4-3.mp3",
+      "modelo": "eleven_v4",
+      "voz": "UkpOFlJ6eThQ4Qt9Rff5",
+      "segundos": 21.6,
+      "creditos": 320.9679,
+      "estado": "completed",
+      "geracao": "a32URCxd2ZbyXOFDrN4C",
+      "flow": "RATzstsgMAT3uWUvYrEw",
+      "sha256": "503e08f5d162fbbc9bbf970fe60d7cf43cdb1bffbbf173d25b6c3b3fecbb525a"
+    },
+    {
+      "arquivo": "v4-4.mp3",
+      "modelo": "eleven_v4",
+      "voz": "UkpOFlJ6eThQ4Qt9Rff5",
+      "segundos": 7.52,
+      "creditos": 136.9863,
+      "estado": "completed",
+      "geracao": "ntZxy3cpMBtnzdP1NSPj",
+      "flow": "ASIGni8Zzfu4mQk2ocVl",
+      "sha256": "b02f2a29be5018696d901274230ed8f69e9b8ef87d6367702a6aba0a51267551"
+    }
+  ],
+  "trechoDoEpisodio": "MIDIA_ORIGINAL/MATUTO_ROGERIO_10s.mp4",
+  "duracaoTrechoNoPiloto": 9.35
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "escolha",
+    "title": "O que o menino faz agora?",
+    "direction": "[cautiously]",
+    "beats": [
+      {
+        "shot": "close",
+        "action": "duvida",
+        "line": "Meu dedo já tava em confirmar. Aí pensei: se eu tô com medo de perder a vaga, quem é que tá decidindo por mim?"
+      },
+      {
+        "shot": "phone",
+        "action": "pix",
+        "line": "Saio do pagamento e procuro o telefone do clube no cartaz da peneira. O número que Rogério me passou podia muito bem dar no bolso dele de novo."
+      },
+      {
+        "shot": "gate",
+        "action": "cartaz",
+        "line": "No cartaz tem uma pista pequena. Guarda a cor desse portão. Daqui a pouco tu vai ver por que eu deixei esse detalhe no quadro."
+      },
+      {
+        "shot": "wide",
+        "action": "contato",
+        "line": "Pronto. O menino larga o pagamento e liga. Até o silêncio enquanto chama já conta história."
+      }
+    ]
+  },
+  {
+    "id": "premissa",
+    "title": "Do tema à primeira cena",
+    "direction": "[warmly]",
+    "beats": [
+      {
+        "shot": "desk",
+        "action": "tema",
+        "line": "Abre o caderno. Escreve futebol. A câmera filma o quê? A bola? A torcida? O dedão do meu pé todo arrebentado?"
+      },
+      {
+        "shot": "paper",
+        "action": "premissa",
+        "line": "Vou estreitar. Um menino tem até amanhã pra conseguir um teste no time. Já tem alguém, uma vontade e um prazo."
+      },
+      {
+        "shot": "paper",
+        "action": "impede",
+        "line": "Agora acrescenta o que aperta: pediram o dinheiro da passagem dele pra liberar a inscrição. Se ele pagar, como chega ao campo? A escolha custa alguma coisa."
+      },
+      {
+        "shot": "host",
+        "action": "teste",
+        "line": "Faz essa pergunta com teu tema. Se o personagem puder esperar sentado que tudo se resolve, dá pra ele alguma coisa que pode perder."
+      }
+    ]
+  },
+  {
+    "id": "ganchos",
+    "title": "A promessa da abertura",
+    "direction": "[playfully]",
+    "beats": [
+      {
+        "shot": "monitor",
+        "action": "prompt02",
+        "line": "Abre o prompt dois, o de ganchos. Onde diz tema, ponho teste de futebol. Posso colar no ChatGPT ou no Claude e pedir cinco começos. Compara estes dois."
+      },
+      {
+        "shot": "proof",
+        "action": "grito",
+        "line": "Primeira: você não vai acreditar no que aconteceu comigo. Eu acredito que tu sabe gritar. Agora, o que é que tu quer que eu descubra?"
+      },
+      {
+        "shot": "proof",
+        "action": "bolso",
+        "line": "Segunda: botei a passagem de volta em cima do balcão. Foi o que ele cobrou pra me deixar jogar. Agora eu quero saber como esse menino vai voltar pra casa."
+      },
+      {
+        "shot": "host",
+        "action": "promessa",
+        "line": "A segunda abertura dá trabalho: a próxima cena tem que responder. Se eu passar cinco minutos falando da minha chuteira, tu pode me cobrar."
+      }
+    ]
+  },
+  {
+    "id": "progressao",
+    "title": "A virada que foi plantada",
+    "direction": "[curious]",
+    "beats": [
+      {
+        "shot": "desk",
+        "action": "tres",
+        "line": "Ponho três coisas na mesa: recibo, telefone, portão. Troca a ordem. Se eu já abrir com a resposta do clube, a ligação vira burocracia."
+      },
+      {
+        "shot": "board",
+        "action": "ordem",
+        "line": "Primeiro tu lê o nome. Aí entende por que eu ligo. Do outro lado me dão uma informação que muda o que eu faço. Isso é progressão."
+      },
+      {
+        "shot": "gate",
+        "action": "plantio",
+        "line": "E a virada? Eu achava que o perigo era perder dinheiro. Olhando o aviso de perto, percebo que podia pagar e mesmo assim ir pro portão errado."
+      },
+      {
+        "shot": "close",
+        "action": "gancho",
+        "line": "O portão azul tava lá desde o começo. Quando ele volta, tu pode pensar: rapaz, eu vi aquilo. Agora assiste aos três planos juntos."
+      }
+    ]
+  },
+  {
+    "id": "filme",
+    "title": "A cena montada",
+    "direction": "[softly]",
+    "beats": [
+      {
+        "shot": "short",
+        "action": "recibo",
+        "line": "Duzentos reais. Se eu der isso aqui, amanhã eu vou pro teste a pé."
+      },
+      {
+        "shot": "short",
+        "action": "chamada",
+        "line": "Alô? É da secretaria do time? Eu queria confirmar uma inscrição. É que tão me cobrando pra entrar."
+      },
+      {
+        "shot": "short",
+        "action": "resposta",
+        "line": "Gratuito? [short pause] Sete horas, portão azul. Tá. Eu vou."
+      },
+      {
+        "shot": "gate",
+        "action": "chegada",
+        "line": "No outro dia eu cheguei antes de abrir. Com o dinheiro da volta no bolso. Camisa dez? [chuckles] A moça me deu o colete quarenta e três. Eu vesti do mesmo jeito."
+      }
+    ]
+  },
+  {
+    "id": "montagem",
+    "title": "Onde entra o corte",
+    "direction": "[warmly]",
+    "beats": [
+      {
+        "shot": "wide",
+        "action": "volta",
+        "line": "Viu que nem precisei mostrar o jogo? Tu queria saber se eu caía naquela conversa. O colete responde outra coisa: ele entrou. Vem pra ilha comigo."
+      },
+      {
+        "shot": "edit",
+        "action": "sobra",
+        "line": "Nessa ligação inteira eu desbloqueio a tela, procuro o contato, erro o dedo, volto, acho o nome. Repara quanto tempo leva pra chegar numa novidade."
+      },
+      {
+        "shot": "edit",
+        "action": "corta",
+        "line": "Eu marco a entrada na primeira chamada e arrasto o fim até a resposta. Deixo o toque começar enquanto tu ainda vê o recibo. O ouvido já te leva pro plano seguinte."
+      },
+      {
+        "shot": "edit",
+        "action": "respira",
+        "line": "Depois de gratuito eu seguro um instante. É o tempo que o menino leva pra entender que pode ir. Essa pausa trabalha. A procura pelo contato, nessa versão, só atrasava."
+      }
+    ]
+  },
+  {
+    "id": "estilos",
+    "title": "Uma técnica em três formatos",
+    "direction": "[playfully]",
+    "beats": [
+      {
+        "shot": "host",
+        "action": "camisa",
+        "line": "Mas Matuto, eu nem jogo bola! Melhor pra ti, meu joelho estala até pra sentar. Leva a técnica pra outros formatos. Espia."
+      },
+      {
+        "shot": "board",
+        "action": "matuto",
+        "line": "No meu estilo: vendi a passagem pra fazer o teste. Como volto pra casa? Aqui o motor é a decisão de alguém."
+      },
+      {
+        "shot": "board",
+        "action": "dias",
+        "line": "Num desafio de trinta dias: no dia um eu erro todos os passes de esquerda. Marco dez tentativas no muro. No dia trinta, quantas acertam o mesmo alvo? Tem comparação que dá pra conferir."
+      },
+      {
+        "shot": "board",
+        "action": "curioso",
+        "line": "Numa curiosidade: a bola bateu na trave e voltou quase pro meu pé. De qual lado eu chutei? Mostra a batida e volta a imagem pra explicar o ângulo. Cada formato pede uma prova diferente."
+      }
+    ]
+  },
+  {
+    "id": "celular",
+    "title": "Trilha do celular gratuito",
+    "direction": "[warmly]",
+    "beats": [
+      {
+        "shot": "wide",
+        "action": "trilhas",
+        "line": "Agora escolhe como produzir. São quatro trilhas. O recibo é o mesmo. O que muda é como tu consegue mostrar a pista."
+      },
+      {
+        "shot": "phone",
+        "action": "gravar",
+        "line": "Primeira trilha: celular, sem gastar. Escreve um valor fictício num papel, apoia o telefone numa pilha de livros e grava tua mão virando a folha perto da janela."
+      },
+      {
+        "shot": "phone",
+        "action": "cortar",
+        "line": "Num editor gratuito, corta o começo em que tua mão procura o papel. Grava a fala num canto quieto. Aproxima o nome com dois pontos de escala, se o editor oferecer esse controle."
+      },
+      {
+        "shot": "close",
+        "action": "teste",
+        "line": "Faz essa pergunta com teu tema. Se o personagem puder esperar sentado que tudo se resolve, dá pra ele alguma coisa que pode perder."
+      }
+    ]
+  },
+  {
+    "id": "pc",
+    "title": "Trilha do computador gratuito",
+    "direction": "[matter-of-fact]",
+    "beats": [
+      {
+        "shot": "monitor",
+        "action": "pastas",
+        "line": "Segunda trilha: as ferramentas gratuitas no teu PC. Levo as mesmas gravações e separo imagem, voz e projeto. Parece besteira até tu procurar áudio final, final dois, agora vai."
+      },
+      {
+        "shot": "edit",
+        "action": "camadas",
+        "line": "No editor, a imagem fica numa faixa e a voz em outra. Puxo o som da ligação pra esquerda. O papel ainda tá na tela quando toca. Posso voltar e mexer só nesse corte."
+      },
+      {
+        "shot": "edit",
+        "action": "volume",
+        "line": "Olha a onda da fala. Baixo o toque até ouvir cada palavra de gratuito. Posso montar essa cena inteira com filmagem própria e edição."
+      },
+      {
+        "shot": "host",
+        "action": "complexidade",
+        "line": "Também dá pra aprender 3D e código com ferramentas gratuitas. Construir o personagem, iluminar o quarto e renderizar cada quadro pede estudo, máquina e tempo."
+      }
+    ]
+  },
+  {
+    "id": "pago",
+    "title": "Duas trilhas com IA paga",
+    "direction": "[warmly]",
+    "beats": [
+      {
+        "shot": "phone",
+        "action": "celia",
+        "line": "Terceira trilha: celular com IA paga. Quero testar duas leituras da ligação. Se o meu plano oferece voz, gero só a frase, escuto junto da cena e escolho. Termino no editor do celular."
+      },
+      {
+        "shot": "monitor",
+        "action": "pcia",
+        "line": "Quarta trilha: PC com IA paga. Levo o texto pra um agente de código, peço uma mudança no quarto, abro o projeto e comparo com a tomada anterior."
+      },
+      {
+        "shot": "edit",
+        "action": "camadas3d",
+        "line": "Nesta aula, o Three.js monta os objetos e a câmera. O Remotion organiza o vídeo em quadros. O ElevenLabs interpreta as falas do Matuto. A direção decide quando cada coisa entra."
+      },
+      {
+        "shot": "close",
+        "action": "limites",
+        "line": "Serviço pago pode economizar uma etapa. Tem cota e tem tentativa ruim. Assinatura nenhuma percebe sozinha que minha mão tá tapando a pista. Quem olha isso é a gente."
+      }
+    ]
+  },
+  {
+    "id": "reescrita",
+    "title": "Criticar antes de animar",
+    "direction": "[curious]",
+    "beats": [
+      {
+        "shot": "host",
+        "action": "leitor",
+        "line": "Olha meu primeiro rascunho: Rogério era suspeito. Matuto desconfiou. Ele resolveu ligar. O que a gente faz com esse texto antes de animar?"
+      },
+      {
+        "shot": "proof",
+        "action": "verbo",
+        "line": "Lê só a frase do meio. O que é que a câmera vê em desconfiou? Se eu desenhar uma sobrancelha torta por dez segundos, a sobrancelha pede demissão."
+      },
+      {
+        "shot": "monitor",
+        "action": "prompt09",
+        "line": "Abro o prompt nove, de crítica e clareza. Entrego o rascunho e peço: aponta a frase exata em que a história para. O que posso tirar? Que ação visível prova a mudança?"
+      },
+      {
+        "shot": "proof",
+        "action": "risca",
+        "line": "Minha reescrita fica assim: o polegar parou em cima de pagar. Ele virou o cartaz e discou o número do clube. Viu o pensamento aparecer? Agora eu consigo escolher o enquadramento."
+      }
+    ]
+  },
+  {
+    "id": "metodo",
+    "title": "Escolher o prompt e dirigir a resposta",
+    "direction": "[thoughtfully]",
+    "beats": [
+      {
+        "shot": "desk",
+        "action": "fichas",
+        "line": "Escolhe o prompt pelo que tá faltando. Só tem assunto? Trabalha a premissa. Já tem personagem e falta pressão? Conflito. A cena anda e a conversa tá dura? Trabalha o diálogo."
+      },
+      {
+        "shot": "paper",
+        "action": "pedido",
+        "line": "Olha o pedido que eu escrevo: tenho vinte segundos, uma mesa e um celular. Quero descobrir junto com o menino quem fez a cobrança. Me dá duas ações que eu possa filmar hoje."
+      },
+      {
+        "shot": "proof",
+        "action": "alternativas",
+        "line": "Uma resposta manda eu mostrar o estádio lotado. Outra manda eu virar o papel. Qual cabe na minha mesa? Posso guardar a ideia do estádio pra outra história."
+      },
+      {
+        "shot": "host",
+        "action": "formatos",
+        "line": "Guarda teus pedidos por formato: Matuto, desafio, curiosidade. Salva junto a correção que tu fez. Depois tu lembra por que funcionou pra tua cena."
+      }
+    ]
+  },
+  {
+    "id": "skills",
+    "title": "Uma skill em ação",
+    "direction": "[warmly]",
+    "beats": [
+      {
+        "shot": "host",
+        "action": "pergunta",
+        "line": "E aquela palavra skill que aparece quando a gente fala de agente? Eu sempre esqueço de testar a letra no celular. Vou escrever um procedimento pra repetir essa revisão."
+      },
+      {
+        "shot": "monitor",
+        "action": "procedimento",
+        "line": "Ao revisar um corte, abre no tamanho de um telefone. Para no recibo. Dá pra ler valor e favorecido? Se a mão cobrir a palavra, marca o segundo e propõe mudar a mão ou a câmera."
+      },
+      {
+        "shot": "phone",
+        "action": "falha",
+        "line": "Olha a primeira tentativa. O dedão engoliu o dois. A instrução ajudou a achar o defeito. Eu afasto a mão, rodo de novo e agora dá pra ler duzentos."
+      },
+      {
+        "shot": "close",
+        "action": "manual",
+        "line": "Uma skill guarda esse procedimento pra uma ferramenta compatível. Ela precisa de acesso ao material. Num chat só de texto, tu pode seguir a lista à mão e mostrar os quadros."
+      }
+    ]
+  },
+  {
+    "id": "dados",
+    "title": "Revisar com uma pergunta concreta",
+    "direction": "[thoughtfully]",
+    "beats": [
+      {
+        "shot": "desk",
+        "action": "dados",
+        "line": "Depois de publicar, dá pra aprender com o resultado. Esse Reel meu dura um minuto e cinquenta e seis. O tempo médio de visualização foi cinquenta e três segundos."
+      },
+      {
+        "shot": "monitor",
+        "action": "medida",
+        "line": "Isso não quer dizer que todo mundo saiu no segundo cinquenta e três. Uns podem ter ido embora cedo, outros ter ficado até o fim. E uma média sozinha não me diz qual cena mexer."
+      },
+      {
+        "shot": "edit",
+        "action": "hipotese",
+        "line": "Eu volto ao vídeo com uma pergunta pequena: será que demorei a mostrar qual era o problema? Faço uma versão que antecipa a pista. Preservo o resto pra comparação fazer sentido."
+      },
+      {
+        "shot": "host",
+        "action": "honesto",
+        "line": "Na próxima postagem mudam público e circunstância também. O registro é daquele vídeo. Usa os números pra investigar. Promessa de viralizar eu deixo pro vendedor de milagre."
+      }
+    ]
+  },
+  {
+    "id": "exercicio",
+    "title": "A primeira atividade",
+    "direction": "[warmly]",
+    "beats": [
+      {
+        "shot": "close",
+        "action": "pega",
+        "line": "Pega um objeto ao alcance da mão. Chave, conta de luz, bilhete de ônibus. Escolhe um. Vou te dar uns segundos."
+      },
+      {
+        "shot": "paper",
+        "action": "escrever",
+        "line": "No caderno ou no bloco de notas, completa três linhas: quem precisa desse objeto hoje? O que acontece se não conseguir? Qual detalhe muda o que a pessoa entendeu?"
+      },
+      {
+        "shot": "board",
+        "action": "chave",
+        "line": "Vou fazer com a chave. Minha irmã precisa abrir a padaria antes do primeiro ônibus. A chave gira e a porta não abre. Ela olha o chaveiro: pegou a chave de casa. Aí tem uma decisão pra próxima cena."
+      },
+      {
+        "shot": "phone",
+        "action": "entregar",
+        "line": "Teu primeiro exercício é gravar três planos de até cinco segundos cada. Mostra o objeto, a tentativa e o detalhe. Junta os três, grava uma frase e guarda essa primeira versão. Dá pra começar agora, só com o que tá na tua mão."
+      }
+    ]
+  },
+  {
+    "id": "saida",
+    "title": "O primeiro corte é seu",
+    "direction": "[mischievously]",
+    "beats": [
+      {
+        "shot": "gate",
+        "action": "colete",
+        "line": "Eu tava escolhendo camisa antes de chegar no campo. No fim, o que me botou no jogo foi ler o papel até a última linha."
+      },
+      {
+        "shot": "wide",
+        "action": "rever",
+        "line": "Mostra tua montagem pra alguém. Pergunta o que ela acha que acontece depois. Segura a vontade de explicar. Escuta a resposta."
+      },
+      {
+        "shot": "desk",
+        "action": "uma",
+        "line": "Se ela entendeu outra coisa, mexe num único corte. Salva a segunda versão e compara com a primeira. É assim que tu começa a dirigir."
+      },
+      {
+        "shot": "close",
+        "action": "fim",
+        "line": "Vai lá no material de ganchos, abre teu caderno e põe a primeira cena de pé. Eu fico com o colete quarenta e três. A próxima história é tua."
+      }
+    ]
+  }
+]
