@@ -73,7 +73,7 @@ def edit_take(a,ws,lines,beats,removed):
         cursor+=hi-lo;script.append(lines[i]);shots.append(b)
     return np.concatenate(samples),kept,script,shots
 chap_data=[];beats=[];cues=[];words=[];env=[];checks=[];frame=start_frame
-script=(root/'audio/abertura/Roteiro-do-piloto.md').read_text('utf8').replace('# O recibo','# Aula de boas-vindas · CenaViva',1)
+script=(root/'audio/abertura/Roteiro-do-piloto.md').read_text('utf8').replace('# O recibo','# Aula de boas-vindas · CenaViva\n\nRoteiro final gravado com a voz Matuto (ElevenLabs). A abertura é o piloto “O recibo”; depois vêm os 16 capítulos, na ordem em que aparecem no vídeo.\n\n# Abertura · O recibo',1).replace('Trecho da aula de boas-vindas do CenaViva. Cada parágrafo é uma tomada independente. A pausa entre a primeira e a segunda recebe o trecho do episódio original.','Entre a primeira e a segunda fala entra o trecho do episódio original com Rogério.')
 with wave.open(str(root/'public/aula.wav'),'wb') as master:
     master.setparams((2,2,sr,0,'NONE',''))
     with wave.open(str(root/'public/mix.wav'),'rb') as base:master.writeframes(base.readframes(base.getnframes()))
@@ -126,7 +126,7 @@ with wave.open(str(root/'public/aula.wav'),'wb') as master:
         stereo=np.stack((mono+foley*.88,mono+foley),axis=-1);master.writeframes((np.clip(stereo,-.99,.99)*32767).astype('<i2').tobytes())
         chap_data.append(dict(id=key,title=c['title'],fromFrame=frame,frames=numframes));frame+=numframes
         checks.append(dict(id=key,duration=round(dur,3),matched=match))
-        script+='\n\n## '+c['title']+'\n\n'+'\n\n'.join(clean(b['line']) for b in c['beats'])
+        script+='\n\n## '+str(num+1)+'. '+c['title']+'\n\n'+'\n\n'.join(clean(b['line']) for b in c['beats'])
 timeline=dict(frames=frame,introFrames=start_frame,chapters=chap_data,beats=beats,cues=cues,words=words,env=env)
 (src/'aula.json').write_text(json.dumps(timeline,ensure_ascii=False,separators=(',',':')),encoding='utf8')
 (root/'revisao/alinhamento.json').write_text(json.dumps(checks,indent=2),encoding='utf8')
