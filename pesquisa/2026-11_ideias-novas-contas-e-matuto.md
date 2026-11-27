@@ -1,6 +1,8 @@
-# Mineração de ideias: 5 novas contas de historinhas IA + 5 caminhos novos pro Matuto
+# Mineração de ideias: 4 novas contas de historinhas IA + 7 novas vidas pro Matuto
 
-*Pesquisa feita em 26/11/2026. Base: estudos e reportagens de 2025–2026 (fontes no fim), os dados reais do Reel do Matuto (`referencia/03_VOZ_E_DADOS.md`) e as 12 regras da skill Historinhas Viciantes.*
+*Pesquisa feita em 26/11/2026 e revisada em 27/11/2026, depois do retorno: as contas 1 a 4 aprovadas, a Herança descartada, e o Matuto entendido como "a cada temporada, um sonho novo, do zero".*
+
+*Base: estudos e reportagens de 2025–2026 (fontes no fim), os dados reais do Reel do Matuto (`referencia/03_VOZ_E_DADOS.md`) e as 12 regras da skill Historinhas Viciantes.*
 
 ---
 
@@ -45,7 +47,7 @@ Um Reel de 1min56s rendeu estes números. Eles são a **barra pra comparar** qua
 
 ---
 
-## 2. Cinco novas contas de historinhas IA
+## 2. Quatro novas contas de historinhas IA (aprovadas)
 
 Cada ideia foge do que já saturou (novela de frutas com baixaria, gato chinês genérico) e usa um sinal de 2026 que ainda está subindo.
 
@@ -57,7 +59,6 @@ Cada ideia foge do que já saturou (novela de frutas com baixaria, gato chinês 
 | 2 | **A Casa dos Salgados** | Reality interativo | Jovem, humor, fã de reality | ★★★★★ | Alto (diário) | Médio | ★★★ |
 | 3 | **Dona Lurdes Não Esquece** | Novela de justiça, 1ª pessoa | Mulheres 35+ | ★★★★ | Médio | Baixo | ★★★★ |
 | 4 | **30 Dias** | "E se", 2ª pessoa | Jovem adulto, suspense | ★★★★ | Médio | Médio | ★★★★ |
-| 5 | **Herança** | POV histórico em série | Estudante, curioso, professor | ★★★ | Alto | Médio | ★★★ |
 
 *As estrelas são minha estimativa pelo roteiro e pelos sinais de mercado, não uma previsão de views. Quem decide é o teste (seção 4).*
 
@@ -143,115 +144,133 @@ Cada ideia foge do que já saturou (novela de frutas com baixaria, gato chinês 
 
 ---
 
-### Conta 5 · Herança 🪙
+## 3. Novas temporadas: o Matuto recomeça do zero
 
-**Em uma frase:** POV histórico em série. A cada episódio você acorda como **alguém da mesma família brasileira** num ano diferente, de 1711 a 2026, e uma moeda furada num cordão passa de mão em mão.
+**A ideia:** a cada temporada o Matuto apaga a vida anterior e recomeça **do zero, com um sonho novo**. O personagem, a voz, o sotaque e o jeito são os mesmos; a vida é outra. É o modelo de antologia: o mesmo ator numa história nova por temporada.
 
-**Por que agora:** o POV histórico ("você acorda em 1351") passa de 19 milhões de views, mas é dominado por contas em inglês com história europeia, e os historiadores criticaram os erros.
+### Por que esse modelo é forte
 
-**Diferencial, em três camadas:**
-1. **História do Brasil**, que nas buscas que fiz aparece pouco nesse formato.
-2. **Série com fio condutor**: é a mesma família e o mesmo objeto. Isso cria a regra 6 (plantar e pagar) numa escala de 300 anos. O último episódio se passa em 2026, quando **você** acha a moeda na gaveta da sua avó e entende tudo o que ela carregou.
-3. **Rigor**, com fonte na legenda de cada episódio. É justamente onde a concorrência apanha.
+- **O personagem é o ativo, e aqui ele é reaproveitado inteiro.** A Marisa Maiô e os protagonistas de microdrama com perfil próprio mostram que o público segue o personagem, não o tema.
+- **Cada temporada abre uma porta nova.** Quem não liga pra futebol entra pela Medicina, pela música ou pelo romance, e depois volta pras outras temporadas.
+- **O perfil inteiro vira uma lacuna** (regra 2): *"o que o Matuto vai tentar agora?"*
+- **Cada vida traz uma aposta nova e concreta** (regra 5) e uma âncora nova na tela (regra 12).
 
-- **Episódios possíveis:** 1711, ouro em Minas · 1798, Conjuração Baiana · 1888, a véspera da Lei Áurea · 1897, Canudos · 1904, Revolta da Vacina · 1932, os campos da seca no Ceará · 1958, os candangos construindo Brasília · 1970, a Copa no rádio · 1994, o Plano Real · 2026.
-- **Âncora na tela:** `ANO 1711` + a moeda.
-- **Gancho do EP1:** *"Você acorda em 1711, com lama até a cintura, e acabou de achar ouro. Se o capataz ver, você morre. Se ele não ver, a sua família inteira muda de destino."*
-- **Dinheiro:** salvamentos altos (conteúdo de estudo), patrocínio de cursinho e de plataforma de ensino, professores usando em sala.
-- **Riscos:** temas como escravidão e a seca de 1932 pedem respeito, sem espetáculo (a crítica que o formato já recebeu). Consultar fontes acadêmicas. É a produção mais cara, porque cada época pede cenário e figurino novos.
+### 6 regras pro recomeço funcionar
 
----
+1. **Explicar na bio, não no vídeo:** *"Toda temporada o Matuto recomeça do zero com um sonho novo."*
+2. **O EP1 não perde tempo explicando o recomeço.** A virada fica num texto na tela (`TEMPORADA 2 · MATUTO 171`) e a narração já começa no gancho (regra 1).
+3. **A cara fixa e uma peça nova.** Ficam sempre a cicatriz na sobrancelha, a pele morena, o cabelo crespo e **um toque de mostarda** na roupa (é a cor dele e o que faz a capa ser reconhecida). Entra uma peça marcante por temporada: a regata, o jaleco emprestado, o chapéu de couro, o avental, o terno barato.
+4. **Elenco fixo em papéis novos.** O Edinho é sempre o amigo fiel; o Seu Bené é sempre o mentor da frase sem sentido que só faz sentido no final. O fã que reconhece os dois comenta.
+5. **O público escolhe a próxima vida.** O último episódio de cada temporada termina com uma votação entre dois sonhos. É a alavanca de participação que fez o *Fruit Love Island* crescer.
+6. **Uma playlist e um EP1 fixado por temporada.** Isso resolve o problema de conversão do perfil (15 mil visitas, 1.190 seguidores).
 
-## 3. Cinco caminhos novos para o Matuto
+### Resumo das 7 vidas
 
-A ideia aqui é **mudar o formato sem perder o ativo**: o personagem, a voz com sotaque do sertão da Paraíba e o universo (Edinho, Seu Bené, a chuteira, os R$ 78, os R$ 1.300 da família).
-
-| # | Formato | O que muda | Por que funciona | Prioridade |
-|---|---|---|---|---|
-| 1 | **Matuto Contra o Golpe** | Drama → utilidade | Compartilhamento no WhatsApp da família + seguro pra marca | **Começar já** |
-| 2 | **Matuto Decide** | O público escolhe o caminho | Votação foi o motor do maior sucesso IA de 2026 | **Começar já** |
-| 3 | **Causos de Assombração do Matuto** | Drama → terror de causo | Trilha de suspense em alta + cultura que ninguém copia | Teste em dezembro |
-| 4 | **Vlog do Matuto** | Narração cinematográfica → selfie diário | Formato IA provado, barato, cria vínculo | Teste entre as temporadas |
-| 5 | **Conta pro Matuto** | Ficção → história real de seguidor | História infinita + comunidade | Depois de 10 mil seguidores |
-
----
-
-### Matuto 1 · Matuto Contra o Golpe 🚨
-
-**O que é:** o Matuto perdeu os R$ 1.300 da família pra um "empresário" que nunca existiu. Agora ele conta, em mini-histórias de 60 a 90 s, **um golpe de verdade por episódio** e termina com "como perceber". Exemplos: peneira paga e falso empresário de futebol, golpe do Pix, falso emprego, "mãe, troquei de número", falso leilão, golpe do consignado.
-
-**Por que é diferente e funciona:**
-- **É feito pra ser compartilhado.** Aviso que protege a família tende a ir pro grupo do WhatsApp, e compartilhamento leva o vídeo pra gente que não segue o perfil. O Reel atual tem 0,17% de compartilhamentos; esse formato foi feito pra passar disso.
-- **Encaixa no cânone.** Não é um quadro solto: é o Matuto usando a própria ferida.
-- **Abre a porta pra marca.** Banco e fintech pagam por educação contra golpe. A Marisa Maiô mostrou que personagem IA brasileiro fecha publicidade.
-
-**Gancho de exemplo:** *"O homem tinha crachá, foto com jogador e um contrato de quatro páginas. Só faltava uma coisa nele. E foi essa coisa que custou mil e trezentos reais da minha mãe."*
-
-**Formato:** coleção numerada ("Golpe nº 1, nº 2…"), com uma playlist só pra isso.
-**Cuidado:** cada golpe precisa de fonte oficial (Banco Central, Febraban, Procon). Nunca ensinar o golpe em detalhe; ensinar a **perceber** o golpe.
-**Métrica que prova:** compartilhamentos acima de 0,17% e salvamentos acima de 0,22% das views.
+| Temporada | Gênero | Âncora na tela | Forma emocional | Melhor época | Público novo que entra |
+|---|---|---|---|---|---|
+| 🏀 **Matuto Basquete** *(sua ideia)* | Esporte, superação | `1,68 m` | queda-subida | qualquer | quem curte basquete e NBA |
+| 🎭 **Matuto 171** *(sua ideia)* | Crime, golpe no golpista | `CAIXINHA: R$ 1.300` (o saldo dos golpes) | subida-queda-subida | qualquer | fã de série de golpe e de crime |
+| 🎤 **Matuto Piseiro** | Música, fama | plays da música + `DIAS PRO SÃO JOÃO` | subida-queda-subida | abril a junho (final no São João) | fã de forró e piseiro |
+| 🩺 **Matuto Medicina** | Estudo, superação | `FALTAM 214 DIAS PRO ENEM` | queda-subida | dezembro e janeiro (final no SISU) | estudante, professor, família |
+| 📱 **Matuto Famoso** | Comédia-drama | contador de seguidores | subida-queda-subida | qualquer | quem quer criar conteúdo (o público do CenaViva) |
+| 🍲 **Cuscuz do Matuto** | Empreender | `CAIXA DO DIA: R$ 34` | subida-queda-subida | qualquer | trabalhador, quem vende na rua |
+| 💍 **Matuto e a Filha do Patrão** | Romance | `FALTAM 30 DIAS PRO CASAMENTO` | subida-queda-subida (Cinderela) | qualquer | mulheres 35+ |
 
 ---
 
-### Matuto 2 · Matuto Decide 🗳️
+### As duas que você deu, já desenhadas
 
-**O que é:** a próxima temporada termina cada episódio numa **escolha com custo dos dois lados** (regra 3, o 50/50), e o público decide nos comentários. O episódio seguinte abre com *"Vocês escolheram… e olha no que deu."*
+#### 🏀 Matuto Basquete — "1,68 m"
 
-**Exemplos de escolha:**
-- *"O empresário apareceu no alojamento oferecendo R$ 3 mil. Eu aceito ou conto pro professor?"*
-- *"O Edinho foi cortado da peneira. Eu divido meu lugar no quarto com ele escondido ou deixo ele voltar pra rodoviária?"*
+**Onde ele recomeça:** no sertão, sem quadra. Ele aprende a arremessar num aro de bicicleta pregado num poste de luz.
+**A aposta:** a altura. Um baixinho de 1,68 m num esporte de gente com quase 2 metros: é um obstáculo que todo mundo **vê** na tela, sem precisar explicar. O sonho é uma bolsa de basquete numa faculdade americana, caminho real de jogador brasileiro. A pegadinha (o 50/50 da regra 3): pra ter a bolsa, ele precisa de inglês e de nota. Ele joga muito, mas não sabe dizer "obrigado" em inglês.
 
-**Por que funciona:** as análises do *Fruit Love Island* apontam a **participação do público** como o motor dos 300 milhões de views. E o público do Matuto já comenta muito: 1.059 comentários num único Reel.
+- **Gancho do EP1:** *"Eu tenho 1,68 m. Minha primeira cesta de basquete foi o aro da bicicleta do meu pai, pregado num poste de luz com arame."*
+- **Gancho final do EP1:** *"O homem de boné desceu da caminhonete, olhou pro poste, olhou pra mim e perguntou: 'Quem te ensinou esse arremesso?' Ninguém tinha me ensinado. E era exatamente isso que assustava ele."*
+- **Planta que paga depois:** o homem de boné nunca diz o próprio nome. Na final, descobre-se que ele foi cortado de uma peneira por ser baixo, 30 anos atrás. O Matuto é a revanche dele.
+- **Cuidado:** não usar logo nem nome da NBA ou de time real.
 
-**Como produzir sem enlouquecer:** a estrutura é um "colar". O esqueleto da temporada é fixo, a escolha muda o caminho **dentro** do episódio e os caminhos voltam a se encontrar no grande evento seguinte. Só se produz o caminho que venceu.
+#### 🎭 Matuto 171 — "golpe no golpista"
 
-**Métrica que prova:** comentários acima de 0,44% das views e mais gente voltando pro episódio seguinte.
+**O nome:** 171 é o artigo do estelionato no Código Penal e uma gíria que todo brasileiro conhece.
+**O segredo pro público torcer por ele (regra 7):** ele **só aplica golpe em golpista**. Começa como um Robin Hood do sertão, o dinheiro sobe à cabeça, ele cruza a linha e o preço chega.
 
----
-
-### Matuto 3 · Causos de Assombração do Matuto 🌙
-
-**O que é:** de noite, no sertão (ou no alojamento, com a luz apagada), o Matuto conta os causos que a avó contava: Comadre Fulozinha, Corpo Seco, Cabra Cabriola… São episódios avulsos de terror leve, em 1ª pessoa, com o sotaque que já é a marca dele.
-
-**Por que é diferente e funciona:**
-- Suspense/terror e piano estão entre as trilhas mais usadas nas histórias de 2026.
-- **Troca o gênero e mantém o personagem.** Atrai quem não liga pra futebol: *"Mas Matuto, eu nem jogo bola!"*, como a própria aula do CenaViva já brinca.
-- O causo é tradição oral real do Nordeste. É o tipo de conteúdo que uma fábrica estrangeira de IA **não sabe fazer**.
-
-**Gancho de exemplo:** *"Minha vó dizia: quando o assobio parece longe, a Comadre Fulozinha tá perto. Eu tinha nove anos quando escutei o assobio bem longe."*
-
-**Cuidado:** pesquisar a versão local de cada lenda (elas variam de região pra região) e citar a origem.
-**Métrica que prova:** tempo médio acima de 46% e seguidores novos vindos de fora do público do futebol.
+- **Forma:** subida-queda-subida (justiceiro → se perde → paga o preço → se redime, ou não).
+- **Gancho do EP1:** *"Meu primeiro golpe rendeu mil e trezentos reais. Exatamente o que um golpista tinha tirado da minha mãe. E eu tirei dele mesmo."*
+- **Gancho final do EP1:** *"No dia seguinte tinha um bilhete por baixo da porta: 'Gostei do teu trabalho. Agora tu trabalha pra mim.'"*
+- **Cuidado sério:** TikTok e Instagram proíbem conteúdo que ensine ou promova fraude.
+  - Os golpes da série são **inventados e exagerados**, estilo filme de assalto: "o golpe do boi invisível", "a fazenda que só existe no mapa". **Nunca um passo a passo de golpe real** (roteiro de Pix, ferramenta real).
+  - A consequência aparece na tela.
+  - O selo de ficção fica no perfil.
+  - Isso protege a conta e ainda deixa os golpes mais engraçados.
 
 ---
 
-### Matuto 4 · Vlog do Matuto 📱
+### As 5 novas
 
-**O que é:** o Matuto filma a si mesmo, estilo selfie, de 30 a 75 s por dia. *"Dia 23 no alojamento."* Ele conta o dia, mostra o quarto, reage aos jogos de verdade no fim de semana (em personagem, sem usar marca nem imagem de clube) e cria expectativa pro próximo episódio grande.
+#### 🎤 Matuto Piseiro — "a música que roubaram de mim"
 
-**Por que funciona:**
-- O vlog de personagem IA é um formato provado. O vlog do Pé-Grande teve 676 mil curtidas no primeiro mês (2025) e o formato se espalhou pra alienígena, figura bíblica e bicho.
-- **É barato:** um personagem, uma câmera, um cenário. Mantém o perfil vivo **entre** os episódios grandes, que dão mais trabalho.
-- **Cria vínculo de "amigo":** os protagonistas de um microdrama IA chegaram a ~100 mil seguidores nos perfis próprios, com fã falando com eles como se fossem gente.
+**Onde ele recomeça:** vendendo picolé na feira, em Campina Grande. Ele grava a primeira música dentro do guarda-roupa, com o colchão na porta pra abafar o som.
+**A aposta:** a autoria. A música dele estoura num paredão, **com o nome de outro cantor**. O sonho é cantar no palco do São João de Campina Grande, o "Maior São João do Mundo", no estado do próprio Matuto.
 
-**Gancho de exemplo:** *"Dia 23. O professor disse que amanhã só sobra um de nós dois nesse quarto. E o Edinho tá dormindo aqui do meu lado."*
+- **Gancho do EP1:** *"Eu gravei minha primeira música dentro de um guarda-roupa, com o colchão na porta. Três dias depois ela tava tocando num paredão em Patos. E ninguém sabia que era minha."*
+- **Gancho final do EP1:** *"O cara no palco tinha a minha letra, o meu refrão… e o nome dele no telão."*
+- **O trunfo que nenhuma outra temporada tem:** a série **produz músicas de verdade**. Cada música original pode virar um som que outros criadores usam no TikTok, e é assim que as músicas se espalham lá. O público espera o lançamento da música como quem espera o fim do episódio.
+- **Timing:** o São João é em junho. A temporada roda de abril a junho e a final sai na semana da festa.
+- **Cuidado:** se a música for feita com IA, conferir a licença de uso comercial da ferramenta e a regra de rótulo da plataforma. Parceria com um compositor real da Paraíba dá mais autenticidade e rende matéria na imprensa local.
 
-**Produção:** câmera de mão com tremidinha no Remotion/Three.js, ou o prompt "selfie-style vlog" nas ferramentas de vídeo.
-**Métrica que prova:** seguidores por visita ao perfil acima de 7,8%.
+#### 🩺 Matuto Medicina — "o Wi-Fi da igreja"
+
+**Onde ele recomeça:** filho de agricultor no sertão, estudando pro ENEM com um celular emprestado. O único Wi-Fi da cidade é o da igreja.
+**A aposta:** Medicina numa federal, um dos cursos mais disputados do país. Âncora: `FALTAM 214 DIAS PRO ENEM`, que depois vira a nota.
+
+- **Gancho do EP1:** *"Eu estudava pro ENEM sentado na calçada da igreja, porque era o único lugar da cidade com Wi-Fi. Às dez da noite o padre desligava o roteador. Faltavam 214 dias pra prova."*
+- **Gancho final do EP1:** *"Aí o padre apareceu com a chave da igreja na mão e disse: 'Pode estudar aqui dentro. Mas se tu passar, eu vou te cobrar uma coisa.'"*
+- **Planta que paga depois:** o que o padre vai cobrar.
+- **Timing único:** o SISU 2027 está previsto para a segunda quinzena de janeiro. Em 2026 as inscrições foram de 19 a 23/jan, o resultado saiu em 29/jan e houve 3,4 milhões de inscrições. **Se a final sair na semana do resultado, a temporada pega a conversa do país inteiro.** Isso só funciona se a produção começar agora; se não der, fica pra dez/2027.
+- **Por que funciona:** é história de estudo que professor e família compartilham, e tem salvamento alto.
+- **Cuidado:** não prometer "método que aprova". Usar dado real (calendário do MEC).
+
+#### 📱 Matuto Famoso — "3 visualizações"
+
+**Onde ele recomeça:** um celular com a tela trincada e 32 GB de memória. O sonho é ter 1 milhão de seguidores pra tirar a mãe da roça.
+**A aposta:** o contador de seguidores, sempre na tela, subindo e **descendo**.
+
+- **Gancho do EP1:** *"Meu primeiro vídeo teve 3 visualizações. Uma era minha, uma era da minha mãe… e a terceira eu só descobri de quem era seis meses depois."*
+- **Gancho final do EP1:** *"O segundo vídeo bateu 2 milhões de visualizações. Só que ninguém tava rindo comigo."*
+- **Planta que paga depois:** quem foi a terceira visualização.
+- **O trunfo pro negócio:** o que o Matuto aprende na temporada (gancho, constância, aguentar o hate, fugir de agência que vende seguidor) é **o que o CenaViva ensina**. Basta um comentário fixado do tipo "o que o Matuto aprendeu tá no CenaViva", sem virar anúncio.
+- **Cuidado:** a história vem antes do funil. Se parecer propaganda, o público sente.
+
+#### 🍲 Cuscuz do Matuto — "R$ 34 no caixa"
+
+**Onde ele recomeça:** em São Paulo, com R$ 78 e a cuscuzeira de alumínio da mãe, vendendo cuscuz recheado na saída do metrô às 5 da manhã.
+**A aposta:** a cuscuzeira da mãe (objeto) e o caixa do dia (número): `CAIXA DO DIA: R$ 34`.
+
+- **Gancho do EP1:** *"Eu vendi o primeiro cuscuz às 5h12 da manhã, na saída do metrô Itaquera. Às 5h40 o rapa levou meu carrinho. Com a cuscuzeira da minha mãe dentro."*
+- **Gancho final do EP1:** *"Pra soltar o carrinho, o homem do depósito pediu trezentos reais. Eu tinha trinta e quatro. E uma ideia muito idiota."*
+- **Por que funciona:** história de comida é o coração das "AI story animations" que mais cresceram em 2026, e quem vende na rua vive isso todo dia.
+- **Rumo da temporada:** carrinho → viraliza → o dono do ponto cobra pedágio → aparece uma proposta de franquia que é armadilha → a cuscuzeira da mãe paga na final.
+- **Cuidado:** a fiscalização não é vilã caricata. O vilão é quem explora.
+
+#### 💍 Matuto e a Filha do Patrão — "segue reto"
+
+**Onde ele recomeça:** motorista de uma família rica no Morumbi, no primeiro dia de serviço.
+**A aposta:** ela vai casar com outro daqui a 30 dias, e o pai dela é o patrão dele. Âncora: `FALTAM 30 DIAS PRO CASAMENTO`.
+
+- **Gancho do EP1:** *"No meu primeiro dia de motorista, a filha do patrão entrou no carro chorando e disse: 'Segue reto. Não importa pra onde. Só não me leva pro meu casamento.'"*
+- **Gancho final do EP1:** *"Ela tirou a aliança e me entregou: 'Guarda isso. Se meu pai perguntar, tu nunca me viu.' Aí o celular dela tocou. Era o noivo. E ele sabia o meu nome."*
+- **Por que funciona:** romance com diferença de classe é o gênero número 1 dos microdramas e o coração da novela brasileira. O público do ReelShort no Brasil é principalmente de mulheres 35+, e essa temporada traz esse público pro Matuto.
+- **Cuidado:** tom de "novela das seis". Nada da conotação sexual que queimou as novelinhas de frutas.
 
 ---
 
-### Matuto 5 · Conta pro Matuto 💬
+### Outras vidas pro banco de reserva
 
-**O que é:** os seguidores mandam a história real de quando "saíram de casa pra tentar a vida": a primeira noite na cidade grande, o primeiro emprego, a volta. Uma vez por semana o Matuto anima e narra a melhor, com o selo **"história real de seguidor"**.
-
-**Por que é diferente e funciona:**
-- **Ficção vira comunidade.** Quem mandou a história compartilha com a família inteira.
-- **A pauta nunca acaba**, e cada história traz detalhe concreto que ninguém inventa (a regra de ouro da skill: detalhe vindo de gente real vale mais que detalhe inventado).
-- A migração em busca de vida melhor é a história de milhões de famílias brasileiras, e é exatamente a história do Matuto.
-
-**Cuidados obrigatórios:** termo de autorização por escrito, nomes trocados, nenhum dado de menor (LGPD) e nada que exponha terceiros. É relato do seguidor, não reportagem: deixar isso claro.
-**Quando lançar:** depois de uma base mínima (~10 mil seguidores). Antes disso chegam poucas histórias.
+- **Matuto quer ir pros Estados Unidos:** aposta enorme (dívida com o coiote, a família hipoteca a terra), mas o tema é sensível. Só com consequência real na tela, sem glamourizar.
+- **Matuto e o joguinho:** vício em aposta, muito atual no Brasil. Precisa de jogo **fictício** e não pode parecer propaganda de bet, que já usa esse formato.
+- **Matuto Detetive:** ele caça o golpista que enganou a família. É o espelho do 171; faz sentido escolher um dos dois.
+- **Matuto Lutador:** funciona, mas seria o terceiro esporte (futebol, basquete), então é menos diferente.
 
 ---
 
@@ -273,10 +292,13 @@ A ideia aqui é **mudar o formato sem perder o ativo**: o personagem, a voz com 
 
 | Quando | Matuto | Conta nova |
 |---|---|---|
-| **Dezembro/2026** | Arrumar o perfil (EP1 fixado, capas numeradas) + lançar **Contra o Golpe** | Piloto do **Diário de um Caramelo** (o menor risco e o mais próximo do método que já funciona) |
-| **Janeiro/2027** | **Matuto Decide** na próxima temporada + **Causos** de teste | **A Casa dos Salgados**, com 5 a 7 episódios prontos antes da estreia, aproveitando a temporada de reality |
-| **Fevereiro/2027** | **Vlog** entre as temporadas | Piloto de **Dona Lurdes** ou **30 Dias**, o que tiver o melhor roteiro |
-| **Depois** | **Conta pro Matuto**, quando houver base | **Herança**, quando houver tempo pra pesquisa histórica |
+| **Dezembro/2026** | Arrumar o perfil (EP1 fixado, capas numeradas, bio do recomeço) + estrear **Matuto Medicina**, se der pra produzir já | Piloto do **Diário de um Caramelo** (o menor risco e o mais próximo do método que já funciona) |
+| **Janeiro/2027** | Final da **Medicina** na semana do resultado do SISU (previsto para a segunda quinzena) + votação da próxima vida | **A Casa dos Salgados**, com 5 a 7 episódios prontos antes da estreia, aproveitando a temporada de reality |
+| **Fevereiro e março/2027** | **Matuto 171** ou **Matuto Basquete**, o que o público votar | Piloto de **Dona Lurdes** ou **30 Dias**, o que tiver o melhor roteiro |
+| **Abril a junho/2027** | **Matuto Piseiro**, com a final no São João | A conta que ficou pra trás no passo anterior |
+| **Depois** | Votação entre **Filha do Patrão**, **Cuscuz** e **Famoso** | Escalar a conta que tiver passado no piloto com a melhor métrica |
+
+*Se não der pra produzir a Medicina a tempo do SISU, estrear em dezembro com a vida que o público votar e guardar a Medicina pra dez/2027.*
 
 ---
 
@@ -285,6 +307,13 @@ A ideia aqui é **mudar o formato sem perder o ativo**: o personagem, a voz com 
 - **Cordel Sagrado (conta):** histórias bíblicas contadas em versos de cordel, com animação em estilo xilogravura. A onda de Bíblia com IA é grande no Brasil (um criador brasileiro com 365 mil seguidores; o @bibliacarioca com humor e gíria). O visual de xilogravura é uma assinatura que ninguém tem. Risco: sensibilidade religiosa.
 - **Seu Bené: a origem (spin-off do Matuto):** a juventude do Seu Bené no sertão dos anos 1970, explicando a frase que ele planta na Temporada 1. Expande o universo e dá perfil próprio a um secundário. Precisa respeitar o que já foi plantado no cânone.
 - **Matuto descobre que é feito de IA (quarta parede):** uma série curta e cômica em que o Matuto "visita" quem cria ele. Leva naturalmente pro CenaViva Kit sem parecer anúncio. Postar separado, pra não quebrar a imersão da série principal.
+- **Formatos de apoio entre temporadas** (da primeira versão deste documento):
+  - *Matuto Contra o Golpe:* um golpe real por episódio e como perceber.
+  - *Causos de Assombração:* terror de causo do sertão.
+  - *Vlog do Matuto:* diário em selfie.
+  - *Conta pro Matuto:* histórias reais de seguidores, com autorização.
+
+  Servem pra manter o perfil vivo enquanto a próxima temporada é produzida.
 
 ---
 
@@ -340,6 +369,12 @@ A ideia aqui é **mudar o formato sem perder o ativo**: o personagem, a voz com 
 - [Hootsuite — Política de rótulo de IA do TikTok](https://blog.hootsuite.com/ai-disclosure-policy-for-tiktok/)
 - [TikTok — Programa de Recompensas do Criador (suporte oficial)](https://support.tiktok.com/pt_BR/business-and-creator/creator-rewards-program/creator-rewards-program.)
 - [Canaltech — TikTok lança programa de monetização com foco em vídeos longos](https://canaltech.com.br/redes-sociais/tiktok-lanca-programa-de-monetizacao-e-foca-em-videos-longos-282661/)
+
+**Calendário do SISU**
+- [Quero Bolsa — Quando abre o Sisu 2027](https://querobolsa.com.br/revista/quando-abre-o-sisu-2027)
+- [CNN Brasil — Inscrições do Sisu 2026 começam em 19 de janeiro](https://www.cnnbrasil.com.br/educacao/inscricoes-para-o-sisu-2026-comecam-em-19-de-janeiro/)
+- [Agência Gov — Sisu 2026 registrou mais de 3,4 milhões de inscrições](https://agenciagov.ebc.com.br/noticias/202601/sisu-2026-registrou-mais-de-3-4-milhoes-de-inscricoes-e-13-8-milhoes-de-acessos)
+- [Diário do Nordeste — Quando sai o resultado do Sisu 2026](https://diariodonordeste.verdesmares.com.br/ceara/quando-sai-o-resultado-do-sisu-2026-veja-data-prevista-pelo-mec-1.3734469)
 
 **Dados próprios**
 - `referencia/03_VOZ_E_DADOS.md`: métricas reais de um Reel do Matuto (um vídeo; não é garantia para os próximos).
